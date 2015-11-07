@@ -1,0 +1,23 @@
+name: Jaron
+favicon: null
+layout_spectrum: 0.4685767942573875
+typography_spectrum: 0.8682486067991704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8305239486508071
+  lightness: 0.037945058895275
+  saturation: 0.4814991164021194
+  rhythmicContrast: 0.9078295219223946
+purpose: []
